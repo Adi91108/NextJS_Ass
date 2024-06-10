@@ -33,7 +33,7 @@ export const TryNow: FC = () => {
             />
           </div>
           <div className="relative cursor-pointer">
-            <select className="w-full px-4 py-2 bg-transparent border border-black cursor-pointer rounded-md appearance-none">
+            <select className="w-full px-4 py-2 text-xs lg:text-lg bg-transparent border border-black cursor-pointer rounded-md appearance-none">
               <option className="cursor-pointer" value="">
                 Choose your language
               </option>
