@@ -19,9 +19,10 @@ Here Are Some Screenshots from the Actual Mobile View.
 
 ![App Screenshot](https://github.com/Adi91108/NextJS_Ass/blob/main/app/assets/SS3.jpg)
 
+![App Screenshot](https://github.com/Adi91108/NextJS_Ass/blob/main/app/assets/SS2.jpg)
+
 ![App Screenshot](https://github.com/Adi91108/NextJS_Ass/blob/main/app/assets/SS1.jpg)
 
-![App Screenshot](https://github.com/Adi91108/NextJS_Ass/blob/main/app/assets/SS2.jpg)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
